@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "nome": "Bolo de Cenoura",
+        "descricao":"Pedaco de bolo com cobertura de chocolate",
+        "preco": 10.0,
+        "imagem" : "../Imagens/pedaco-de-bolo.webp"
+    },
+    {
+        "id": 2,
+        "nome": "Bolo de laranja",
+        "descricao":"Pedaco de bolo com cobertura de calda de laranja",
+        "preco": 12.0,
+        "imagem" : "../Imagens/pedaco-de-bolo-laranja.jpg"
+    },
+    {
+        "id": 3,
+        "nome": "Bolo de fuba",
+        "descricao":"Pedaco de bolo",
+        "preco": 14.0,
+        "imagem" : "../Imagens/bolo-fuba.jpg"
+    },
+    {
+        "id": 4,
+        "nome": "Bolo de coco",
+        "descricao":"Pedaco de bolo com cobertura de calda de coco",
+        "preco": 13.0,
+        "imagem" : "../Imagens/bolo-coco.jpg"
+
+    },
+     {
+        "id": 5,
+        "nome": "Bolo de maracuja",
+        "descricao":"Pedaco de bolo com cobertura de maracuja",
+        "preco": 12.0,
+        "imagem" : "../Imagens/bolo-fuba.jpg"
+    },
+     {
+        "id": 6,
+        "nome": "Bolo de formigueiro",
+        "descricao":"Pedaco de bolo de formigueiro",
+        "preco": 12.0,
+        "imagem" : "../Imagens/bolo-formigas.jpg"
+    }, 
+    {
+        "id": 7,
+        "nome": "Bolo de prestigio",
+        "descricao":"Pedaco de bolo de prestigio",
+        "preco": 20.0,
+        "imagem" : "../Imagens/bolo-prestigio.jpg"
+    },
+     {
+        "id": 8,
+        "nome": "Bolo de Nutella",
+        "descricao":"Pedaco de bolo de nutella bem recheado",
+        "preco": 12.0,
+        "imagem" : "../Imagens/bolo-nutella.jpg"
+    },
+     {
+        "id": 9,
+        "nome": "Bolo de morango",
+        "descricao":"Pedaco de bolo de morango",
+        "preco": 12.0,
+        "imagem" : "../Imagens/bolo-morango.jpg"
+    },
+     {
+        "id": 10,
+        "nome": "Bolo de fuba e goiabada",
+        "descricao":"Pedaco de bolo de fuba e goiabada",
+        "preco": 12.0,
+        "imagem" : "../Imagens/bolo-fuba-goiaba.jpg"
+    }
+
+]

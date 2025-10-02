@@ -7,6 +7,11 @@
 body{
     padding: 20px;
     font-family: Arial, Helvetica, sans-serif;
+    background-image: url('../Imagens/booolin.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
 }
 
 .results{
@@ -18,4 +23,35 @@ body{
     width: 100%;
     padding: 20px;
     border: 2px solid black;
+    background: linear-gradient(215deg, #d1a3ff 0%, #330750 100%);
+}
+
+
+
+.card{
+    border: 2px solid rgb(189, 182, 255);
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    padding: 10px;
+    background-color: rgb(0, 0, 46);
+    color: #ffffffff;
+    border-radius: 20px;
+    box-shadow: rgba(0, 0, 0, 35) 0px 5px 15px;
+    transition: all 200ms linear;
+}
+
+.card:hover{
+    cursor: pointer ;
+    background-color:rgb(131, 15, 15);
+    color:#ffffffff;
+    border: 2px solid rgb(245, 245, 245);
+
+}
+
+.card img{
+    width: 200px;
+    height: auto;
 }

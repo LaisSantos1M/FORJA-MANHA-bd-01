@@ -11,7 +11,7 @@
         "nome": "Bolo de laranja",
         "descricao":"Pedaco de bolo com cobertura de calda de laranja",
         "preco": 12.0,
-        "imagem" : "../Imagens/pedaco-de-bolo-laranja.jpg"
+        "imagem" : "../Imagens/laranjabolo.jpg"
     },
     {
         "id": 3,

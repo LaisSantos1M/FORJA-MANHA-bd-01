@@ -17,3 +17,6 @@ padding - top cima
     padding 10px 5 px 0 px 0 px
     padding 0px, 2px
              ↑↓  ← →
+
+
+Tags HTML: body(corpo), div(divisão, div class== estilo; classe é atributo), breack (quebra de linha), h1, p 
